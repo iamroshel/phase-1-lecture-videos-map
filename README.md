@@ -1,4 +1,4 @@
-# Video: .map
+# Video: .map c
 
 In this video, we create our own version of JavaScript's `.map` method to get
 a better understanding of what that method does and how it works. In the next
